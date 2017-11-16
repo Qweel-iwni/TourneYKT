@@ -1,0 +1,114 @@
+.main{
+    box-sizing: border-box;
+}
+.header{
+    background: black;
+    height: 100px;
+    padding-top: 40px;
+    box-sizing: border-box;
+    display: flex;
+}
+.header h1{
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+    margin: 0;
+    margin-left: 100px;
+}
+body{
+    margin: 0
+}
+.header a{
+    text-decoration: none;
+    
+}
+.header p{
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+    margin:  0  0 0 30px;
+}
+.header p:hover{
+    color: red;
+    transition: 2.5s;
+    font-size: 20px;
+}
+.header h1:hover{
+    color: red;
+    transition: 2.5s;
+    font-size: 20px;
+}
+.osnovnayaosnova{
+    background: #6262f7;
+    height: 1400px;
+    margin-top: 20px;
+}
+.pravila{
+    display: block;
+    padding-top: 30px;
+    
+}
+.pravila h2{
+    color: red;
+    font-size: 30px;
+    font-family: Arial;
+    margin-left: 20px;
+}
+.pravila a{
+    text-decoration: none;
+}
+.glhf{
+  margin-left: 100px;
+    padding-top: 50px;
+    display: flex;
+    
+}
+.glhf img{
+    height: 400px;
+    width: 400px;
+}
+.rod1 p{
+    color: red;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+}
+.rod2 p{
+    color: red;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+}
+.rod2{
+    margin-left: 50px;
+}
+.winn button{
+    text-align: center;
+    color: #fa3e3e;
+    font-size: 20px;
+    height: 100px;
+    width: 400px;
+    background: blue;
+    border: 5px solid blue;
+    border-radius: 5px;
+    margin-left: 400px;
+    
+}
+.nevidimka{
+    display: flex;
+}
+.imgimg img{
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+padding-top: 50px;
+}
+.imgimg p{
+    color: red;
+    font-size: 30px;
+    font-family: Arial; 
+    margin-left: 120px;
+}
+.imgimg{
+    display: flex;
+}

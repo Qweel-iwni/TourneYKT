@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .header{
-    background: black;
+    background: #195b75;
     height: 100px;
     padding-top: 40px;
     box-sizing: border-box;
@@ -13,7 +13,7 @@
     font-size: 16px;
     font-family: Arial;
     margin: 0;
-    margin-left: 100px;
+    margin-left: 10px;
 }
 body{
     margin: 0
@@ -39,8 +39,8 @@ body{
     font-size: 20px;
 }
 .osnovnayaosnova{
-    background: #6262f7;
-    height: 1400px;
+    background-image:url(qq.jpg);
+    height: 2000px;
     margin-top: 20px;
 }
 .pravila{
@@ -111,4 +111,34 @@ padding-top: 50px;
 }
 .imgimg{
     display: flex;
+}
+.highlights{
+    margin-left: 400px;
+    padding-top: 50px;
+}
+.lol{
+    font-size: 25px;
+    font-family: arial;
+    color: darkred;
+}
+.lol h2{
+    margin-left: 100px;
+}
+.header img{
+    height: 70px;
+    width: 300px;
+    margin-left: 80px;
+}
+.cfg button{
+    height: 120px;
+    width: 220px;
+    color: red;
+    font-size: 20px;
+    background: #195b75;
+    border: 5px solid #195b75;
+    border-radius: 5px;
+    margin-left: 540px;
+}
+.cfg{
+    padding-top: 50px;
 }
